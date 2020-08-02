@@ -1,0 +1,7 @@
+name: "Airbnb-NYC-Prediction"
+output_dir: "."
+navbar:
+  title: "Airbnb NYC Prediction"
+  left:
+    - text: "Home"
+      href: index.html
